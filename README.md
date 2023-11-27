@@ -8,6 +8,7 @@ beacuse installling cairosvg dependencies on windows was pain in the butt.
 * on your PC create "eprel_links.xlsx" file, place all product codes in column names "TyreQRCode"<br> 
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/68dce67f-e1c1-40ea-8b79-68fb6da8523d)
 * here you click on "eprel_tyre_sticker.ipynb" and when it opens click on "Open in colab"<br>
+![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/9444e322-4420-4f97-abdf-b7bd54cdf23e)<br>
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/3a5f191f-8ed3-409b-b803-22644ced0fdb)
 * drag & drop xlsx file and upload to google colab<br>
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/be8b411b-50ae-4ab3-a806-3f0d807dde9e)
