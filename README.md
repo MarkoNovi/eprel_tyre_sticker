@@ -5,7 +5,7 @@ google colab notebook that gets svg files from eprel links stored in "eprel_link
 beacuse installling cairosvg dependencies on windows was pain in the butt.
 
 # how to use it?
-* on your PC create "eprel_links.xlsx" file, place all product codes in column names "TyreQRCode"<br> 
+* on your PC create "eprel_links.xlsx" file, place all product codes in column names "TyreQRCode". (you can use full link or just the code like on the image)<br> 
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/68dce67f-e1c1-40ea-8b79-68fb6da8523d)
 * here you click on "eprel_tyre_sticker.ipynb" and when it opens click on "Open in colab"<br>
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/9444e322-4420-4f97-abdf-b7bd54cdf23e)<br>
