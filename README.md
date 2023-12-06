@@ -12,7 +12,7 @@ beacuse installling cairosvg dependencies on windows was pain in the butt.
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/3a5f191f-8ed3-409b-b803-22644ced0fdb)
 * drag & drop xlsx file and upload to google colab<br>
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/be8b411b-50ae-4ab3-a806-3f0d807dde9e)
-* run the first cell to install cairosvg<br>
+* run the first cell to install dependencies<br>
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/b7fbb7d5-6105-4741-9056-3ab0c4c7ffe5)
 * run script<br>
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/9d7e03ab-03a6-41c1-987d-00bc23e888cd)
