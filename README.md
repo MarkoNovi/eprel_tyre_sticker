@@ -1,8 +1,8 @@
 # eprel_tyre_sticker
-google colab notebook that gets svg files from eprel links stored in "eprel_links.xlsx" file that you should upload, and converts svg files to jpeg format.
+Google Colab notebook that gets SVG files from eprel links stored in the "eprel_links.xlsx" file that you should upload, and converts SVG files to jpeg format.
 
 # why google colab notebook?
-beacuse installling cairosvg dependencies on windows was pain in the butt.
+because installing cairosvg dependencies on Windows was pain in the butt.
 
 # how to use it?
 * on your PC create "eprel_links.xlsx" file, place all product codes in column names "TyreQRCode". (you can use full link or just the code like on the image)<br> 
