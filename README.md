@@ -6,7 +6,7 @@ because installing cairosvg dependencies on Windows was pain in the butt.
 # how to use it?
 * on your PC create "eprel_links.xlsx" file, place all codes in column "Tokić šifra", place all product links in column names "TyreQRCode". (you can use full link or just the code part)<br>
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/8a6ba6f0-8152-4846-8b8d-898ad065315d)
-* right click on this button and open in New tab  "Open in Colab" button<br>
+* right click on this "Open in Colab" button and select "Open link in new tab"<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkoNovi/eprel_tyre_sticker/blob/main/eprel_tyre_stickers.ipynb)
 * drag & drop xlsx file and upload to google colab<br>
 ![image](https://github.com/MarkoNovi/eprel_tyre_sticker/assets/76423352/be8b411b-50ae-4ab3-a806-3f0d807dde9e)
